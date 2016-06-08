@@ -1,3 +1,3 @@
 # Description
 
-Répertoire des fichiers du dossier documentaire
+Répertoire de la synthèse documentaire.
